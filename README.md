@@ -9,10 +9,10 @@ Original Dataset: Airline Travel Reviews Data (Skytrax)
 
 Original Dataset Size: 64,740 rows × 19 columns
 
-🔗 **Original Source:**  
-[Mendeley Data – Skytrax Airline Review Data](https://data.mendeley.com/datasets/vgjk58vf8h/1)
+🔗 **Original Source:**  [Mendeley Data – Skytrax Airline Review Data](https://data.mendeley.com/datasets/vgjk58vf8h/1)
 
 DOI: 10.17632/vgjk58vf8h.1
+
  
 
 Dataset Used for Analysis: 21,985 rows × 19 columns
@@ -22,7 +22,7 @@ Analysis Period: 2021–2025
 Format: CSV
 
 📥 **Raw Source:** 
-
+https://github.com/InfantaKennedy/DA-Main-Project---Aviation-Customer-Experience-Service-Analytics/blob/main/Skytrax%20Airline%20Review%20Data(2021-2025)%20-%20Raw%20File.csv
 
 
 The analysis focuses on reviews from 2021–2025. The aircraft column is excluded during preprocessing due to substantial missing and inconsistent values.
