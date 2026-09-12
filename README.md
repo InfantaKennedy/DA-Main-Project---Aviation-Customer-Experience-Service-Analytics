@@ -15,7 +15,7 @@ DOI: 10.17632/vgjk58vf8h.1
 
  
 
-Dataset Used for Analysis: 21,985 rows × 19 columns
+Dataset Used for Analysis: 21,984 rows × 19 columns
 
 Analysis Period: 2021–2025
 
