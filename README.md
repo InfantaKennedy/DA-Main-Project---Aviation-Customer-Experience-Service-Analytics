@@ -18,7 +18,7 @@ DOI: 10.17632/vgjk58vf8h.1
 
 The raw dataset used for this project is the original Excel dataset obtained from the source above.
 
-File: Skytrax Airline Review Data.xlsx
+**File:** https://github.com/InfantaKennedy/DA-Main-Project---Aviation-Customer-Experience-Service-Analytics/blob/main/Skytrax%20Airline%20Review%20Data%20-%20raw%20file.xlsx
 
 The analysis focuses on reviews from 2021–2025. The aircraft column is excluded during preprocessing due to substantial missing and inconsistent values.
 
