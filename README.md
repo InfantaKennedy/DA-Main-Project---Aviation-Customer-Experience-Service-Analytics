@@ -27,7 +27,11 @@ https://github.com/InfantaKennedy/DA-Main-Project---Aviation-Customer-Experience
 
 The analysis focuses on reviews from 2021–2025. The aircraft column is excluded during preprocessing due to substantial missing and inconsistent values.
 
-### Dependencies
+### Dataset Attribution
+
+> Airline Travel Reviews Data (Skytrax), Mendeley Data, DOI: `10.17632/vgjk58vf8h.1
+
+## Dependencies
 
 The following tools and libraries are required to run or reproduce this project:
 
@@ -41,7 +45,7 @@ The following tools and libraries are required to run or reproduce this project:
 - Excel / CSV
 - Windows 10 or later
 
-### Installing
+## Installing
 
 1. Clone or download this repository.
 
@@ -50,7 +54,6 @@ The following tools and libraries are required to run or reproduce this project:
    - Jupyter Notebook
 
 3. Install the required Python libraries if they are not already available:
-```bash
 pip install pandas numpy matplotlib seaborn
 
 4. Place the dataset in the appropriate project folder or upload it to Google Colab.
@@ -61,8 +64,9 @@ pip install pandas numpy matplotlib seaborn
 
 Airline Travel Reviews Data (Skytrax), Mendeley Data, DOI: 10.17632/vgjk58vf8h.1.
 
-### Executing program
-Python Analysis
+## ▶️ Executing program
+
+### 🐍 Python Analysis
 1. Open the project notebook.
 2. Import the required Python libraries.
 3. Load the Skytrax Airline Review dataset.
@@ -71,14 +75,15 @@ Python Analysis
 6. Create statistical summaries and visualizations.
 7. Generate insights from the analysis.
 8. Export the cleaned dataset for Power BI.
-Power BI Dashboard
+   
+### 📊 Power BI Dashboard
 1. Open the cleaned CSV file in Power BI Desktop.
 2. Load the cleaned dataset.
 3. Verify the data types and records.
 4. Create the required DAX measures.
 5. Build the dashboard visualizations.
 6. Use the available slicers to interact with the dashboard.
-The dashboard contains:
+### The dashboard contains:
 - KPI Cards
 - Overall Rating Distribution
 - Customer Recommendation
@@ -92,7 +97,7 @@ The dashboard contains:
 - Recommendation Rate by Seat Type
 - Key Insights and Recommendations
 
-Help
+## 🔍 Help
 Common Issues
 - Ensure the dataset path is correct before loading the file.
 - Check that date columns are converted to the correct datetime format.
@@ -102,10 +107,13 @@ Common Issues
 - Make sure the Power BI source contains the final cleaned dataset with 21,984 records.
 For Power BI analysis, the overall customer rating is measured on a 1–10 scale, while individual service ratings are measured on a 1–5 scale.
 
-Authors
-Infanta Kennedy
+## 👤 Authors
+
+Infanta Kennedy 
+
 Data Analytics Project
-Skills demonstrated:
+
+## Skills demonstrated:
 - Python
 - Pandas
 - NumPy
@@ -118,8 +126,9 @@ Skills demonstrated:
 - Exploratory Data Analysis
 - Data Visualization
 - Business Insights
-Version History
-- 1.0
+  
+## 📝 Version History
+Version 1.0
   - Completed data cleaning and preprocessing
   - Completed exploratory data analysis
   - Created Python visualizations
@@ -128,11 +137,18 @@ Version History
   - Added insights and recommendations
   - Finalized project documentation
 
-License
-This project is intended for portfolio purposes and please refer to the original Mendeley Data source for the dataset's licensing, attribution, and usage information.
+## 📄 License
+This project is intended for educational and portfolio purposes.
+The original dataset is attributed to the Airline Travel Reviews Data (Skytrax) available through Mendeley Data.
+Please refer to the original dataset source for its licensing, attribution, and usage terms.
 
-Acknowledgments
-- Skytrax Airline Review dataset for providing the customer review data.
+## 🙏 Acknowledgments
+- Skytrax Airline Review Dataset for providing the customer review data.
+- Mendeley Data for hosting the original dataset.
 - Python and its data analytics libraries for data cleaning, analysis, and visualization.
 - Microsoft Power BI for interactive dashboard development.
 - Entri Elevate and Illinois Tech for the Data Analytics learning program and project guidance.
+
+## 🎯 Project Outcome
+The project transformed raw airline customer review data into meaningful insights using Python and Power BI.
+The analysis identified important patterns in customer satisfaction, service performance, recommendation behaviour, and passenger segments. The final interactive dashboard provides a data-driven view of airline customer experience and highlights key areas for service improvement.
